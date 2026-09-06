@@ -1,0 +1,23 @@
+{
+  "repo": "avast-one-ultimate-suite",
+  "product": "Avast One Ultimate Suite",
+  "kind": "security",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "security",
+  "topics": [
+    "avast-one",
+    "real-time-shield",
+    "web-shield",
+    "identity-guard",
+    "home-antivirus",
+    "avast-setup-failed-fix",
+    "how-to-install-avast",
+    "avast-windows",
+    "avast-desktop-2026",
+    "avast-desktop-package"
+  ],
+  "site": "toolix.me"
+}
